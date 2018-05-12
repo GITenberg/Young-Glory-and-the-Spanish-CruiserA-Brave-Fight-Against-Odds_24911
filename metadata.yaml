@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26806'
     url: http://www.gutenberg.org/2009/agents/26806
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24911#Young-Glory-and-the-Spanish-CruiserA-Brave-Fight-Against-Odds
 gutenberg_issued: '2008-03-24'
 gutenberg_type: Text
 identifiers:
