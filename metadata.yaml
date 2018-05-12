@@ -1,0 +1,28 @@
+_repo: Young-Glory-and-the-Spanish-CruiserA-Brave-Fight-Against-Odds_24911
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mott, Walter Fenton
+    gutenberg_agent_id: '26806'
+    url: http://www.gutenberg.org/2009/agents/26806
+description: ''
+gutenberg_issued: '2008-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24911'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Spanish-American War, 1898 -- Juvenile fiction'
+- !lcsh 'War stories'
+title: 'Young Glory and the Spanish Cruiser
+
+  A Brave Fight Against Odds'
+url: http://www.gutenberg.org/ebooks/24911
